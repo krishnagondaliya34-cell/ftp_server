@@ -1,0 +1,5 @@
+mcp[cli]<2 
+pyftpdlib
+pyOpenSSL
+python-dotenv
+
